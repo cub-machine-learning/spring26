@@ -10,6 +10,8 @@ This course makes introduction to Machine Learning (ML) field. ML is a branch of
 
 **Assignments**: all assignments are given and checked in the corresponding Teams space
 
+**Video recordings**: in the course materials relevant video recordings are provided. However, please note that these videos are somewhat outdated and do not cover all course topics. Please consider the presentations as the main source for topics covered in the classes.
+
 ## Course assessment
 
 Written examination, Duration: 120 min, Weight: 100 %
