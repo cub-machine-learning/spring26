@@ -34,7 +34,22 @@ The final written exam will be offline on campus. Test exams from previous years
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 06.02.25 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	|  |
+| 06.02.26 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	|  |
+| 13.02.26 | 02 | 	|  |
+| 20.02.26 | 03 | 	|  |
+| 27.02.26 | 04 | 	|  |
+| 06.03.26 | 05 | 	|  |
+| 13.03.26 | 06 | 	|  |
+| 20.03.26 | 07 | 	|  |
+| 27.03.26 | 08 | Mid-term exam.	|  |
+| 03.04.26 | -- | *Semester break. No classes.*	|  |
+| 10.04.26 | 09 | 	|  |
+| 17.04.26 | 10 | 	|  |
+| 24.04.26 | 11 | 	|  |
+| 01.05.26 | -- | *Public holiday. No classes.*	|  |
+| 08.05.26 | 12 | 	|  |
+| 15.05.26 | 13 | 	|  |
+
 
 ## Literature
 1.	T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd edition, Springer, 2008.
