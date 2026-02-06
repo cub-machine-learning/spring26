@@ -34,7 +34,7 @@ The final written exam will be offline on campus. Test exams from previous years
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 06.02.26 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	|  |
+| 06.02.26 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	| [Presentation](Materials/01-intro.pptx) |
 | 13.02.26 | 02 | 	|  |
 | 20.02.26 | 03 | 	|  |
 | 27.02.26 | 04 | 	|  |
