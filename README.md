@@ -28,7 +28,13 @@ The described bonuses can't exceed together 10%.
 
 ## Exam 
 
-The final written exam will be offline on campus. Test exams from previous years: [test mid-term](Materials/midterm_exam_test.pdf), [test mid-term reference solution](Materials/midterm_exam_test_reference.pdf), [test final exam](Materials/exam_test.pdf), [test final exam reference solution](Materials/exam_test_reference.pdf)
+The final written exam will be offline on campus. Test exams from previous years: 
+
+Mid-term exam test variant: [exam](Materials/midterm_exam_test.pdf), [reference](Materials/midterm_exam_test_reference.pdf)
+
+Final exam test variant: [exam](Materials/exam_test.pdf), [reference](Materials/exam_test_reference.pdf)
+
+Mid-term exam 2026 additional tasks: [tasks](Materials/midterm_2026_test.pdf), [reference](Materials/midterm_2026_test_reference.pdf)
 
 ## Lectures
 
